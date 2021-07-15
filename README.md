@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ongyuhchian at-sign icloud dot com
 - 💻 See some of my work on [my blog](https://ong-ekken.github.io/blog/)
 - 😄 Pronouns: he/him
+
+[![Ekken's github stats](https://github-readme-stats.vercel.app/api?username=ong-ekken&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ong-ekken/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ong-ekken)](https://github.com/ong-ekken/github-readme-stats)
