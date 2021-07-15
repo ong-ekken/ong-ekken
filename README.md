@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💻 See some of my work on [my blog](https://ong-ekken.github.io/blog/)
 - 😄 Pronouns: he/him
 
-[![Ekken's github stats](https://github-readme-stats.vercel.app/api?username=ong-ekken&count_private=true&show_icons=true&theme=vue&hide_rank=false)](https://github.com/ong-ekken/github-readme-stats)
+[![Ekken's github stats](https://github-readme-stats.vercel.app/api?username=ong-ekken&count_private=true&show_icons=true&theme=vue&hide_rank=false)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ong_ekken)](https://github.com/ong-ekken/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ong_ekken)]
