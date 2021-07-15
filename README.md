@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Natural language Processing
 - 📫 How to reach me: ongyuhchian at-sign icloud dot com
-- 💻 See my work at [my blog](https://ong-ekken.github.io/blog/)
+- 💻 See some of my work on [my blog](https://ong-ekken.github.io/blog/)
 - 😄 Pronouns: he/him
