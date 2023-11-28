@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 ...-->
 
-- 🌱 I’m currently learning Natural language Processing
-- 📫 How to reach me: ongyuhchian at-sign icloud dot com
+- 🌱 I’m currently a Data Product Manager at Moneytree K.K.
+- 📫 How to reach me: see my profile at https://www.linkedin.com/in/ekken/ 
 - 💻 See some of my work on [my blog](https://ong-ekken.github.io/blog/)
-- 😄 Pronouns: he/him
