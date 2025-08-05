@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 ...-->
 
-- 🌱 I’m currently a Data Product Manager at Moneytree K.K.
+- 🌱 I’m currently a Data Product Manager at Flatiron Health (Japan)
 - 📫 How to reach me: see my profile at https://www.linkedin.com/in/ekken/ 
 - 💻 See some of my work on [my blog](https://ong-ekken.github.io/)
